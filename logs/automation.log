@@ -1,0 +1,7 @@
+20:03:04.594 [main] INFO  testCases.TC001_RegisterAccount - *** Entering Customer Details ***
+20:03:06.235 [main] INFO  testCases.TC001_RegisterAccount - *** Clicked on Continue ***
+20:03:06.286 [main] INFO  testCases.TC001_RegisterAccount - *** Test Case Passed ***
+20:03:08.544 [main] INFO  testCases.TC002_LoginTest - Test case started
+20:03:08.995 [main] INFO  testCases.TC002_LoginTest - enter email
+20:03:09.359 [main] INFO  testCases.TC002_LoginTest - enter passward
+20:03:10.252 [main] INFO  testCases.TC002_LoginTest - test case pass
