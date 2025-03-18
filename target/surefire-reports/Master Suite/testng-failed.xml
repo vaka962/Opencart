@@ -8,20 +8,13 @@
     <parameter name="os" value="Windows"/>
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="testCases.TC002_LoginTest">
+      <class name="testCases.TC004_selecting_item_in_desktop">
         <methods>
           <include name="teardown"/>
           <include name="browser"/>
-          <include name="verify_Login"/>
+          <include name="selecting_item_inMac"/>
         </methods>
-      </class> <!-- testCases.TC002_LoginTest -->
-      <class name="testCases.TC001_RegisterAccount">
-        <methods>
-          <include name="teardown"/>
-          <include name="browser"/>
-          <include name="verify_RegisterAccount"/>
-        </methods>
-      </class> <!-- testCases.TC001_RegisterAccount -->
+      </class> <!-- testCases.TC004_selecting_item_in_desktop -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Master Suite] -->

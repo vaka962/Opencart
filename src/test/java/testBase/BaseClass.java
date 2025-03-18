@@ -42,6 +42,8 @@ public class BaseClass {
 		p=new Properties();
 		p.load(file);
 		
+		
+		
 		//logs using log4j2
 		logger= LogManager.getLogger(this.getClass());
 		
@@ -93,7 +95,7 @@ public class BaseClass {
 		driver.manage().window().maximize();
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(5));
 		
-		driver.get(p.getProperty("URL"));
+		driver.get(p.getProperty("URL1"));
 	}
 	
 	

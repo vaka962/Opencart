@@ -1,7 +1,9 @@
-20:03:04.594 [main] INFO  testCases.TC001_RegisterAccount - *** Entering Customer Details ***
-20:03:06.235 [main] INFO  testCases.TC001_RegisterAccount - *** Clicked on Continue ***
-20:03:06.286 [main] INFO  testCases.TC001_RegisterAccount - *** Test Case Passed ***
-20:03:08.544 [main] INFO  testCases.TC002_LoginTest - Test case started
-20:03:08.995 [main] INFO  testCases.TC002_LoginTest - enter email
-20:03:09.359 [main] INFO  testCases.TC002_LoginTest - enter passward
-20:03:10.252 [main] INFO  testCases.TC002_LoginTest - test case pass
+15:15:09.665 [main] INFO  testCases.TC005_Adding_Cart - TC005 started
+15:19:47.256 [main] INFO  testCases.TC005_Adding_Cart - TC005 started
+15:23:41.622 [main] INFO  testCases.TC005_Adding_Cart - TC005 started
+15:25:08.493 [main] INFO  testCases.TC005_Adding_Cart - TC005 started
+15:29:34.044 [main] INFO  testCases.TC005_Adding_Cart - TC005 started
+15:30:48.557 [main] INFO  testCases.TC005_Adding_Cart - TC005 started
+15:57:29.001 [main] INFO  testCases.TC005_Adding_Cart - TC005 started
+16:10:21.700 [main] INFO  testCases.TC005_Adding_Cart - TC005 started
+16:18:39.204 [main] INFO  testCases.TC005_Adding_Cart - TC005 started

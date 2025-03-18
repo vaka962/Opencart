@@ -24,6 +24,10 @@ public class MyAccountPage extends BasePage {
 	@FindBy(xpath="//a[@class='list-group-item'][normalize-space()='Logout']")
 	WebElement clk_logout;
 	
+	
+	
+	
+	
 	//Action Methods
 	
 	public boolean sts_Myaccount() {
@@ -38,4 +42,6 @@ public class MyAccountPage extends BasePage {
 	public void clicklogout() {
 		clk_logout.click();
 	}
+	
+	
 }

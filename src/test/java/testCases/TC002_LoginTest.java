@@ -21,6 +21,7 @@ public class TC002_LoginTest extends BaseClass {
 		hp.clkLogin();
 		
 		
+		
 		LoginPage lp=new LoginPage(driver);
 		
 		logger.info("enter email");
@@ -30,6 +31,8 @@ public class TC002_LoginTest extends BaseClass {
 		lp.setpassword(p.getProperty("Password"));
 		
 		lp.clklogin();
+		
+		
 		
 		
 		MyAccountPage map=new MyAccountPage(driver);

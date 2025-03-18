@@ -31,6 +31,7 @@ public class TC001_RegisterAccount extends BaseClass {
 		rp.setEmail(randomString()+"@gmail.com");	
 		rp.setphonenumber(randomNumaric());
 		
+		
 		String password=randomAlphaNumaric();
 		
 		rp.setpassword(password);

@@ -28,6 +28,6 @@
       <class name="testCases.TC001_RegisterAccount"/>
     
     </classes>
+    
   </test> <!-- Test -->
-  
 </suite> <!-- Suite -->
